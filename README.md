@@ -30,5 +30,5 @@ I am a Software Engineering student at the **Catholic University of Brasília (U
 
 ### 📫 How to reach me
 <a href="https://instagram.com/daisyolivr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:oliverlacerdamarques@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "oliverlacerdamarques@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - **Email:** oliverlacerdamarques@gmail.com
