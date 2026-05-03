@@ -29,6 +29,6 @@ I am a Software Engineering student at the **Catholic University of Brasília (U
 - When I'm not coding, you can find me at the gym focusing on my routine or exploring cozy simulation games and metroidvanias.
 
 ### 📫 How to reach me
-- <a href="https://instagram.com/daisyolivr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram
+<a href="https://instagram.com/daisyolivr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram
 - **LinkedIn:** https://www.linkedin.com/in/oliver-lacerda-marques-279659319/
 - **Email:** oliverlacerdamarques@gmail.com
