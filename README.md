@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Oliver! 👋
 
-<!--
-**oliverlacerdamarques-creator/oliverlacerdamarques-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineering Student | Aspiring Developer
+I am a Software Engineering student at the **Catholic University of Brasília (UCB)**. My journey in tech is driven by a passion for logic, problem-solving, and building scalable systems from the ground up.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- 🎓 Currently enrolled in **Harvard's CS50** and studying Software Development.
+- 📂 Building a portfolio of personal projects to showcase my coding journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+- **Languages:** JavaScript, HTML/CSS, C.
+- **Platforms:** Git, GitHub, VS code.
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
+
+### 🌱 Current Goals
+- Mastering Data Structures and Algorithms.
+- Preparing for international and nacional opportunities.
+
+### ⚡ Fun Fact
+- When I'm not coding, you can find me at the gym focusing on my routine or exploring cozy simulation games and metroidvanias.
+
+### 📫 How to reach me
+- **LinkedIn:** https://www.linkedin.com/in/oliver-lacerda-marques-279659319/
+- **Email:** oliverlacerdamarques@gmail.com
