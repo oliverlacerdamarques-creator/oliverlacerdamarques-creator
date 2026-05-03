@@ -36,4 +36,4 @@ I am a Software Engineering student at the **Catholic University of Brasília (U
 <a href="https://www.linkedin.com/in/oliver-lacerda-marques-279659319" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/oliverlacerdamarques-creator/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/oliverlacerdamarques-creator/oliverlacerdamarques-creator/blob/output/github-contribution-grid-snake.svg)
