@@ -10,7 +10,7 @@ I am a Software Engineering student at the **Catholic University of Brasília (U
 ### 💻 Tech Stack & Tools
 - **Languages:** JavaScript, HTML/CSS, C.
 - **Platforms:** Git, GitHub, VS code.
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
           
 
 ### 🌱 Current Goals
