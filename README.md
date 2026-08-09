@@ -23,7 +23,7 @@ I am a Software Engineering student at the **Catholic University of Brasília (U
 
 ### 🌱 Current Goals
 - Mastering Data Structures and Algorithms.
-- Preparing for international and nacional opportunities.
+- Preparing for international and nacional opportunities (Interships/Entry Level).
 
 ### ⚡ Fun Fact
 - When I'm not coding, you can find me at the gym focusing on my routine or exploring cozy simulation games and metroidvanias.
