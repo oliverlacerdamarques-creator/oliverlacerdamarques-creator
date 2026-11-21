@@ -10,7 +10,7 @@ I'm a 19-year-old **Software Engineering** student (2nd semester) at the **Catho
 - 🔭 **Currently learning:** HTML5, CSS3, JavaScript, and SQL fundamentals.
 - 🌱 **Next steps:** Deepening my JavaScript skills, practicing Data Structures, and building responsive web interfaces.
 - 🎯 **Goal:** Preparing for my first internship or entry-level opportunity in tech (national or international).
-- ⚡ **Beyond code:** Strength training enthusiast, cozy simulation games fan, and metroidvania explorer.
+- ⚡ **Beyond code:** Strength training, cozy simulation games fan, and amateur baker/cook.
 
 ---
 
@@ -30,10 +30,9 @@ I'm a 19-year-old **Software Engineering** student (2nd semester) at the **Catho
 
 ### 📊 GitHub Stats
 
-<!-- ATENÇÃO: Substitua "SEU-USUARIO" pelo seu username exato do GitHub nos dois links abaixo -->
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oliverlacerdamarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverlacerdamarques&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
