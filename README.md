@@ -1,6 +1,6 @@
 # Hi there, I'm Oliver! 👋
 
-### 🚀 Software Engineering Student | Aspiring Developer
+### 🚀 Software Engineering Student | Front-End Developer
 I am a Software Engineering student at the **Catholic University of Brasília (UCB)**. My journey in tech is driven by a passion for logic, problem-solving, and building scalable systems from the ground up.
 
 ### 🚀 What I'm working on
@@ -9,7 +9,7 @@ I am a Software Engineering student at the **Catholic University of Brasília (U
 
 ### 💻 Tech Stack & Tools
 
-- **Languages:** JavaScript, HTML/CSS, C.
+- **Languages:** JavaScript, HTML/CSS.
 - **Platforms:** Git, GitHub, VS code.
 
 <table>
@@ -17,7 +17,6 @@ I am a Software Engineering student at the **Catholic University of Brasília (U
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/></td>
   </tr>
 </table>
 
