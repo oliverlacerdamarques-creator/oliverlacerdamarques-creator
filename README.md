@@ -5,7 +5,7 @@
 
 ### 👋 About Me
 
-I'm a 19-year-old **Software Engineering** student (2nd semester) at the **Catholic University of Brasília (UCB)**. Currently focused on building solid foundations in **Front-End development**, programming logic, and relational databases while turning concepts into real-world projects.
+I'm a 19-year-old **Software Engineering** student at the **Catholic University of Brasília (UCB)**. Currently focused on building solid foundations in **Front-End development**, programming logic, and relational databases while turning concepts into real-world projects.
 
 - 🔭 **Currently learning:** HTML5, CSS3, JavaScript, and SQL fundamentals.
 - 🌱 **Next steps:** Deepening my JavaScript skills, practicing Data Structures, and building responsive web interfaces.
