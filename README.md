@@ -31,8 +31,8 @@ I'm a 19-year-old **Software Engineering** student at the **Catholic University 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oliverlacerdamarques-creator&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=45,E0F2FE,F0F9FF&title_color=2563EB&icon_color=60A5FA&text_color=1E293B"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverlacerdamarques-creator&layout=compact&langs_count=6&hide_border=true&bg_color=45,E0F2FE,F0F9FF&title_color=2563EB&text_color=1E293B"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oliverlacerdamarques-creator&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=45,60A5FA,7DD3FC&title_color=ffffff&icon_color=ffffff&text_color=ffffff"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverlacerdamarques-creator&layout=compact&langs_count=6&hide_border=true&bg_color=45,60A5FA,7DD3FC&title_color=ffffff&text_color=ffffff"/>
 </div>
 
 ---
