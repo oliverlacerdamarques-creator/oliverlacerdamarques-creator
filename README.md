@@ -1,36 +1,55 @@
 # Hi there, I'm Oliver! 👋
 
-### 🚀 Software Engineering Student | Front-End Developer
-I am a Software Engineering student at the **Catholic University of Brasília (UCB)**. My journey in tech is driven by a passion for logic, problem-solving, and building scalable systems from the ground up.
+<!-- Banner de Topo -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Oliver%20Lacerda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Front-End%20Developer&descAlignY=58&descSize=16" />
+</div>
 
-### 🚀 What I'm working on
-- 🎓 Currently enrolled in **Harvard's CS50** and studying Software Development.
-- 📂 Building a portfolio of personal projects to showcase my coding journey.
+### 👋 About Me
+
+I'm a 19-year-old **Software Engineering** student (2nd semester) at the **Catholic University of Brasília (UCB)**. Currently focused on building solid foundations in **Front-End development**, programming logic, and relational databases while turning concepts into real-world projects.
+
+- 🔭 **Currently learning:** HTML5, CSS3, JavaScript, and SQL fundamentals.
+- 🌱 **Next steps:** Deepening my JavaScript skills, practicing Data Structures, and building responsive web interfaces.
+- 🎯 **Goal:** Preparing for my first internship or entry-level opportunity in tech (national or international).
+- ⚡ **Beyond code:** Strength training enthusiast, cozy simulation games fan, and metroidvania explorer.
+
+---
 
 ### 💻 Tech Stack & Tools
 
-- **Languages:** JavaScript, HTML/CSS.
-- **Platforms:** Git, GitHub, VS code.
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/></td>
-  </tr>
-</table>
+---
 
-### 🌱 Current Goals
-- Mastering Data Structures and Algorithms.
-- Preparing for international and nacional opportunities (Interships/Entry Level).
+### 📊 GitHub Stats
 
-### ⚡ Fun Fact
-- When I'm not coding, you can find me at the gym focusing on my routine or exploring cozy simulation games and metroidvanias.
+<!-- ATENÇÃO: Substitua "SEU-USUARIO" pelo seu username exato do GitHub nos dois links abaixo -->
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
 
-### 📫 How to reach me
-<a href="https://instagram.com/daisyolivr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:oliverlacerdamarques@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/oliver-lacerda-marques-279659319" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+---
+
+### 📫 Let's Connect
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/oliver-lacerda-marques-279659319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:oliverlacerdamarques@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/daisyolivr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
