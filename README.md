@@ -1,5 +1,3 @@
-# Hi there, I'm Oliver! 👋
-
 <!-- Banner de Topo -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Oliver%20Lacerda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Front-End%20Developer&descAlignY=58&descSize=16" />
