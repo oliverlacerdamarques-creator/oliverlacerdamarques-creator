@@ -1,6 +1,6 @@
 <!-- Banner Azul Claro Moderno -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:BAE6FD&height=180&section=header&text=Oliver%20Lacerda&fontSize=44&fontColor=0F172A&font=Raleway&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Front-End%20Developer&descAlignY=58&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:A5F3FC&height=180&section=header&text=Oliver%20Lacerda&fontSize=40&fontColor=ffffff&font=JetBrains%20Mono&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Front-End%20Developer&descAlignY=58&descSize=15" />
 </div>
 
 ### 👋 About Me
